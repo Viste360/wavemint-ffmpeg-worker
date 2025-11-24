@@ -1,1 +1,1 @@
-# wavemint-ffmpeg-worker
+stub
