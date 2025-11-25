@@ -1,2 +1,3 @@
-Wavemint FFmpeg Worker
-Handles all FFmpeg slicing operations for vertical video production.
+# Wavemint FFmpeg Worker (Skeleton)
+
+Upload this to GitHub, then I will generate the full production FFmpeg slicing code.
